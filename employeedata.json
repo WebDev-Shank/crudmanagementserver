@@ -1,0 +1,34 @@
+{
+  "employee": [
+    {
+      "name": "Shankar S",
+      "mobile": "12990990",
+      "dept": "IT",
+      "salary": "200000",
+      "id": 1
+    },
+    {
+      "name": "Ravi Kumar G",
+      "mobile": "343443",
+      "dept": "it",
+      "salary": "120000",
+      "id": 2
+    },
+    {
+      "name": "Shank",
+      "mobile": "7878787878",
+      "dept": "It Sector",
+      "salary": "30000",
+      "id": 3
+    },
+    {
+      "name": "Rajs",
+      "mobile": "7877878887",
+      "dept": "It",
+      "salary": "40000",
+      "id": 4
+    }
+  ],
+  "product": [],
+  "client": []
+}
