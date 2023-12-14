@@ -30,5 +30,63 @@
     }
   ],
   "product": [],
-  "client": []
+  "client": [],
+  "account": [
+    {
+      "name": "Shankar",
+      "mobile": "9090909090",
+      "email": "shank@gmail.com",
+      "pass": "123",
+      "id": 1
+    },
+    {
+      "name": "Raja",
+      "mobile": "1232113321",
+      "email": "raja@gmail.com",
+      "pass": "123",
+      "id": 2
+    },
+    {
+      "name": "Ravi Kumar",
+      "mobile": "68687837483",
+      "email": "ravi@gmail.com",
+      "pass": "123",
+      "id": 3
+    },
+    {
+      "name": "RaviJi",
+      "mobile": "2323",
+      "email": "raviji@gmail.com",
+      "pass": "123",
+      "id": 4
+    },
+    {
+      "name": "Shankar S",
+      "mobile": "1243433",
+      "email": "shankar@gmail.com",
+      "pass": "123",
+      "id": 5
+    },
+    {
+      "name": "RR",
+      "mobile": "121233",
+      "email": "rr@gmail.com",
+      "pass": "123",
+      "id": 6
+    },
+    {
+      "name": "JJ Sharma",
+      "mobile": "1234567",
+      "email": "jj@gmail.com",
+      "pass": "123",
+      "id": 7
+    },
+    {
+      "name": "HH Jahs",
+      "mobile": "2323233",
+      "email": "hh@gmail.com",
+      "pass": "123",
+      "id": 8
+    }
+  ]
 }
